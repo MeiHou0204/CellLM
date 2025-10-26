@@ -1,4 +1,4 @@
-# CellLM: A generative pre-trained large language model for Single-Cell RNA-Seq Analysis
+# CellLM: A generative pre-trained cell language model for Single-Cell RNA-Seq Analysis
 
 This decoder-only architecture is trained through self-supervised learning on large-scale unannotated single-cell data, enabling it to capture intrinsic patterns of cellular states. As a universal cellular state generator, its core capabilities encompass multiple downstream tasks including cell type annotation, perturbation prediction, and in silico cell generation.
 
