@@ -1,6 +1,6 @@
-# CellLM: A generative pre-trained Transformer model for Single-Cell RNA-Seq Analysis
+# CellLM: A generative pre-trained large language model for Single-Cell RNA-Seq Analysis
 
-This repository contains a decoder-only transformer model designed for analyzing single-cell RNA sequencing (scRNA-seq) data.
+This decoder-only architecture is trained through self-supervised learning on large-scale unannotated single-cell data, enabling it to capture intrinsic patterns of cellular states. As a universal cellular state generator, its core capabilities encompass multiple downstream tasks including cell type annotation, perturbation prediction, and in silico cell generation.
 
 ## Downstream Task
 - Cell Type Annotation: Leveraging pre-trained representations for accurate cell type identification. 
