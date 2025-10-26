@@ -1,4 +1,4 @@
-# scTranscriptome: A Decoder-Only Transformer for Single-Cell RNA-Seq Analysis
+# CellLM: A generative pre-trained Transformer model for Single-Cell RNA-Seq Analysis
 
 This repository contains a decoder-only transformer model designed for analyzing single-cell RNA sequencing (scRNA-seq) data.
 
